@@ -1,0 +1,36 @@
+/* Tipografía */
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Encabezados */
+h1, h2, h3 {
+  color: #004080;
+  margin-bottom: 0.5rem;
+}
+
+/* Links */
+a {
+  color: #004080;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Botones */
+button {
+  background-color: #004080;
+  color: #fff;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #003366;
+}
