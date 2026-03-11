@@ -3,28 +3,60 @@
     <div class="container about-layout">
       <!-- Columna izquierda: logo grande -->
       <div class="about-logo">
-        <img src="../assets/img/DXLogo.png" alt="Logo DX Computación" />
+        <img src="../assets/images/LogoTraslaea.png" alt="Logo Traslaea" />
       </div>
 
       <!-- Columna derecha: contenido institucional -->
       <div class="about-content">
-        <h2>Sobre DX Computación</h2>
-        <p class="intro">Con más de tres décadas de experiencia, nuestra empresa se ha consolidado 
-          como referente en el rubro tecnológico. Desde sus inicios, acompañamos la evolución de la 
-          informática ofreciendo productos de calidad, asesoramiento especializado y un servicio 
-          cercano que genera confianza. La combinación de tradición y actualización constante nos 
-          permite brindar soluciones modernas sin perder el trato humano que nos distingue. Hoy 
-          seguimos siendo el punto de encuentro para empresas, profesionales y particulares que buscan 
-          innovación, respaldo y compromiso, reafirmando nuestra misión de crecer junto a la comunidad 
-          y sus necesidades digitales.
+        <h2>Sobre Traslaea</h2>
+        <p class="intro">Traslaea (Traslasierra Electricistas Asociados) es una asociación que reúne a profesionales de la electricidad en la región de Traslasierra, Córdoba. Su misión principal es fortalecer la identidad institucional de los electricistas habilitados, promover la capacitación continua y garantizar que las instalaciones eléctricas cumplan con los estándares de seguridad exigidos por la normativa vigente. La organización se constituye como un espacio de referencia para trabajadores, empresas y la comunidad, ofreciendo respaldo técnico y legal en un rubro clave para el desarrollo regional.
+
+Entre sus objetivos se destacan la difusión del Marco Normativo de Seguridad Eléctrica, la creación de instancias de formación y actualización profesional, y la representación de sus asociados frente a organismos públicos y privados. Traslaea también busca acercar información clara y accesible a la sociedad, de modo que los usuarios comprendan la importancia de contratar instaladores habilitados y certificados.
+
+La asociación fomenta la colaboración entre sus miembros, impulsa proyectos de innovación y promueve la responsabilidad social en el ejercicio de la profesión. Con una visión moderna y comprometida, Traslaea se posiciona como un actor institucional que no solo defiende los intereses de los electricistas, sino que también contribuye al bienestar y la seguridad de toda la comunidad.
         </p>
+
       </div>
+      
+    <div class="home-description">
+
+    <h2>Comisión directiva</h2>
+      <ul>
+        <li>
+            <strong>Presidencia: </strong><br>
+            Ricardo Andrés BALMACEDA</li>
+        <li>
+            <strong>Secretaría: </strong><br>
+            Esteban Adrian COLOMBO</li>
+        <li>
+            <strong>Tesorería: </strong><br>
+            Juan Marcelo FLORES</li>
+        <li>
+            <strong>Vocal Titular: </strong><br>
+            Johnatan Jesus SOSA</li>
+        <li>
+            <strong>Vocal Suplente: </strong><br>
+            Sergio David LUNGU</li>
+      </ul>
+
+      <h2>Comisión REVISORA DE CUENTAS</h2>
+      
+      <ul>
+        <li>
+            <strong>Revisor de Cuentas Titular: </strong><br>
+            Mariano Ezequiel ORIBE</li>
+        <li>
+            <strong>Revisor de Cuentas Suplente: </strong><br>
+            Nicolas Ezequiel BALMACEDA</li>
+      </ul>
+
+    </div>
     </div>
   </section>
 </template>
 
 <script setup>
-// No necesita lógica especial, es contenido estático
+
 </script>
 
 <style scoped>

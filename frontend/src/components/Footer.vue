@@ -14,7 +14,7 @@
             </div>
             <div class="social-links">
               <h4>Nuestras redes sociales</h4>
-              <a href="https://www.facebook.com/ricardoandres.balmaceda?locale=es_LA" target="_blank" rel="noopener" class="social-link">
+              <a href="https://www.facebook.com/traslaea.arg?locale=es_LA" target="_blank" rel="noopener" class="social-link">
                 <img src="../assets/icons/facebook.png" alt="Facebook" class="social-logo" />
               </a>
               <a href="https://www.instagram.com/traslaea.arg/" target="_blank" rel="noopener" class="social-link">
@@ -48,7 +48,6 @@ import logo from '../assets/images/logoHerysil1.png'
 <style scoped>
 
 .footer {
- /* background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);*/
   background-color: #004080;
   color: white;
   padding: 2.5rem 0 1.5rem 0;

@@ -2,11 +2,7 @@
   <!-- Hero institucional con logo como sello de agua -->
   <section>
     <div class="hero-overlay">
-      <h1>Asociación Civil TRASLAEA</h1>
-      <p>
-        TRASLAEA es una Asociacion Civil sin fines de lucro que nuclea electricistas profesionales 
-        de Traslasierra Córdoba.
-      </p>
+      <h1>TRASLAEA - Traslasierra Electricistas Asociados</h1>
     </div>
   </section>
 
@@ -26,9 +22,25 @@
     <div class="home-description">
       <h2>Sobre Nosotros</h2>
       <p>
-        La Asociación Civil Traslasierra Electricistas Profesionales Habilitados (TRASLAEA)
-        tiene como propósito promover la seguridad, capacitación y unión de los profesionales
-        del área eléctrica, afines y la comunidad en la provincia de Córdoba.
+        Traslasierra Electricistas Asociados (TRASLAEA) es una asociación sin fines de lucro que reúne a profesionales de la electricidad habilitados en la región de Traslasierra, Córdoba.
+      </p>
+      <p>
+        Su misión principal es fortalecer la identidad institucional de los electricistas habilitados, promover la capacitación continua y garantizar que las instalaciones eléctricas cumplan con los estándares de seguridad exigidos por la normativa vigente.
+      </p>
+      <p>   
+        La organización se constituye como un espacio de referencia para trabajadores, empresas y la comunidad, ofreciendo respaldo técnico y legal en un rubro clave para el desarrollo regional.
+      </p>
+      <p>
+        Entre sus objetivos se destacan la difusión del Marco Normativo de Seguridad Eléctrica, la creación de instancias de formación y actualización profesional, y la representación de sus asociados frente a organismos públicos y privados. 
+      </p>
+      <p>
+        Traslaea también busca acercar información clara y accesible a la sociedad, de modo que los usuarios comprendan la importancia de contratar instaladores habilitados y certificados.
+      </p>
+      <p>
+        La asociación fomenta la colaboración entre sus miembros, impulsa proyectos de innovación y promueve la responsabilidad social en el ejercicio de la profesión. 
+      </p>
+      <P>
+        Con una visión moderna y comprometida, Traslaea se posiciona como un actor institucional que no solo defiende los intereses de los electricistas, sino que también contribuye al bienestar y la seguridad de toda la comunidad.
       </p>
 
       <h2>Nuestros Servicios</h2>

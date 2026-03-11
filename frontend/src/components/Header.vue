@@ -16,9 +16,9 @@
     <nav :class="['navbar', { 'open': isOpen }]">
       <ul class="nav-links">
         <li><router-link to="/capacitaciones" @click="closeMenu">Capacitaciones</router-link></li>
-        <li><router-link to="/servicios" @click="closeMenu">Servicios</router-link></li>
         <li><router-link to="/eventos" @click="closeMenu">Eventos</router-link></li>
         <li><router-link to="/documentacion" @click="closeMenu">Documentación</router-link></li>
+        <li><router-link to="/Comision" @click="closeMenu">Comisión</router-link></li>
         <li><router-link to="/login-asociados" @click="closeMenu">Login Asociados</router-link></li>
         <li><router-link to="/login-alumnos" @click="closeMenu">Login Alumnos</router-link></li>
       </ul>
