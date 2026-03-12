@@ -5,47 +5,47 @@
      <h3>Leyes</h3>
       <ul>
         <!-- LEYES -->
-        <li><strong>Ley de Seguridad Eléctrica N° 10281</strong><br><a href="/docs/ley-10281.pdf" download>Descargar PDF</a></li>
-        <li><strong>Ley Provincial 10670 - Modificatoria Ley 10281</strong><br><a href="/docs/ley-10670.pdf" download>Descargar PDF</a></li>
-        <li><strong>Alcances Ley Nº 10670</strong><br><a href="/docs/alcances-ley-10670.pdf" download>Descargar PDF</a></li>
+        <li><strong>Ley de Seguridad Eléctrica N° 10281</strong><br><a href="../public/docs/Ley10281.pdf" download>Descargar PDF</a></li>
+        <li><strong>Ley Provincial 10670 - Modificatoria Ley 10281</strong><br><a href="../public/docs/LEY-10670.pdf" download>Descargar PDF</a></li>
+        <li><strong>Alcances Ley Nº 10670</strong><br><a href="../public/docs/Alcances-Ley-10670.pdf" download>Descargar PDF</a></li>
       </ul>
      <h3>Decretos</h3>
       <ul>
         
       <!-- DECRETOS -->
-      <li><strong>Decreto 1022/2015</strong><br><a href="/docs/decreto-1022-2015.pdf" download>Descargar PDF</a></li>
-      <li><strong>Anexo del Decreto 1022/2015</strong><br><a href="/docs/anexo-decreto-1022-2015.pdf" download>Descargar PDF</a></li>
+      <li><strong>Decreto 1022/2015</strong><br><a href="../public/docs/decreto 1022-2015.pdf" download>Descargar PDF</a></li>
+      <li><strong>Anexo del Decreto 1022/2015</strong><br><a href="../public/docs/anexo_Decreto_1022.pdf" download>Descargar PDF</a></li>
       </ul>
      <h3>Resoluciones</h3>
       <ul>
         
       <!-- RESOLUCIONES -->
-      <li><strong>Resolución Nº 26/2015 - Creación Registro de Instaladores Habilitados</strong><br><a href="/docs/resolucion-26-2015.pdf" download>Descargar PDF</a></li>
-      <li><strong>Anexos - Resolución Nº 26/2015 (Anexo V Modificado RG 97/2018)</strong><br><a href="/docs/anexos-resolucion-26-2015.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución Nº 5/2016 - Disposiciones Técnicas. Régimen de Infracciones y Sanciones</strong><br><a href="/docs/resolucion-5-2016.pdf" download>Descargar PDF</a></li>
-      <li><strong>Anexos - Resolución Nº 5/2016</strong><br><a href="/docs/anexos-resolucion-5-2016.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución Nº 49/2016 - Reglamentación Técnica</strong><br><a href="/docs/resolucion-49-2016.pdf" download>Descargar PDF</a></li>
-      <li><strong>Anexos - Resolución Nº 49/2016</strong><br><a href="/docs/anexos-resolucion-49-2016.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución Nº 8/2017 – Punto de Conexión y Medición</strong><br><a href="/docs/resolucion-8-2017.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución Nº 43/2017 – Modificatoria RG 49/2016</strong><br><a href="/docs/resolucion-43-2017.pdf" download>Descargar PDF</a></li>
-      <li><strong>Anexo - Resolución Nº 43/2017</strong><br><a href="/docs/anexo-resolucion-43-2017.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución Nº 46/2017 - Inicio Régimen de Seguridad Eléctrica</strong><br><a href="/docs/resolucion-46-2017.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución Nº 50/2017 – Incumbencias Instalador Cat. III</strong><br><a href="/docs/resolucion-50-2017.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución Nº 11/2018 – Modificación ET 21</strong><br><a href="/docs/resolucion-11-2018.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución Nº 54/2018 – Certificación Instalaciones Existentes</strong><br><a href="/docs/resolucion-54-2018.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución Nº 84/2018 – Condiciones de Reanudación/Conexión</strong><br><a href="/docs/resolucion-84-2018.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución Nº 97/2018 – Régimen de Infracciones y Sanciones</strong><br><a href="/docs/resolucion-97-2018.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución Nº 17/2021 y Anexos</strong><br><a href="/docs/resolucion-17-2021.pdf" download>Descargar PDF</a></li>
-      <li><strong>Anexos - Resolución Nº 17/2021</strong><br><a href="/docs/anexos-resolucion-17-2021.pdf" download>Descargar PDF</a></li>
-      <li><strong>Anexo II - Resolución Nº 17/2021 Programa de Contenidos</strong><br><a href="/docs/anexoII-resolucion-17-2021.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución Nº 41/2021 - Programa de Contenidos</strong><br><a href="/docs/resolucion-41-2021.pdf" download>Descargar PDF</a></li>
-      <li><strong>Anexo Resolución Nº 41/2021 - Modificatorio Anexo II</strong><br><a href="/docs/anexo-resolucion-41-2021.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución Nº 10/2022 - Modificación Reglamentación Técnica</strong><br><a href="/docs/resolucion-10-2022.pdf" download>Descargar PDF</a></li>
-      <li><strong>Anexo Resolución Nº 10/2022</strong><br><a href="/docs/anexo-resolucion-10-2022.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución General Nº 4/2023 - Modificación Reglamentación Técnica</strong><br><a href="/docs/resolucion-4-2023.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución General Nº 109/2023 - Profesiones Autorizadas</strong><br><a href="/docs/resolucion-109-2023.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución General Nº 42/2025 - Modificatoria Régimen de Infracciones</strong><br><a href="/docs/resolucion-42-2025.pdf" download>Descargar PDF</a></li>
-      <li><strong>Resolución General Nº 96/2025 - Prórroga Vigencia Instaladores</strong><br><a href="/docs/resolucion-96-2025.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución Nº 26/2015 - Creación Registro de Instaladores Habilitados</strong><br><a href="../public/docs/res26regristro_electricistas_cap.pdf" download>Descargar PDF</a></li>
+      <li><strong>Anexos - Resolución Nº 26/2015 (Anexo V Modificado RG 97/2018)</strong><br><a href="../public/docs/res26anexos.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución Nº 5/2016 - Disposiciones Técnicas. Régimen de Infracciones y Sanciones</strong><br><a href="../public/docs/res05_normativatecnica_leyse.pdf" download>Descargar PDF</a></li>
+      <li><strong>Anexos - Resolución Nº 5/2016</strong><br><a href="../public/docs/anexos052016.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución Nº 49/2016 - Reglamentación Técnica</strong><br><a href="../public/docs/res49modificacion_res26.pdf" download>Descargar PDF</a></li>
+      <li><strong>Anexos - Resolución Nº 49/2016</strong><br><a href="../public/docs/res49anexos.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución Nº 8/2017 – Punto de Conexión y Medición</strong><br><a href="../public/docs/res8certificacion_pcm.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución Nº 43/2017 – Modificatoria RG 49/2016</strong><br><a href="../public/docs/RG-43-2017-Modificatoria-Anexo-I-RG-49-2016-Seguridad-Eléctrica-1.pdf" download>Descargar PDF</a></li>
+      <li><strong>Anexo - Resolución Nº 43/2017</strong><br><a href="../public/docs/RG-43-2017-Anexo.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución Nº 46/2017 - Inicio Régimen de Seguridad Eléctrica</strong><br><a href="../public/docs/RG-46-2017-Inicio-régimen-de-seguridad-eléctrica-.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución Nº 50/2017 – Incumbencias Instalador Cat. III</strong><br><a href="../public/docs/res50_disposiciones_complementarias_se.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución Nº 11/2018 – Modificación ET 21</strong><br><a href="../public/docs/11Modificacion_especificacion_tecnicaN21.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución Nº 54/2018 – Certificación Instalaciones Existentes</strong><br><a href="../public/docs/Resgral54.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución Nº 84/2018 – Condiciones de Reanudación/Conexión</strong><br><a href="../public/docs/84modificacion_rg11-2018.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución Nº 97/2018 – Régimen de Infracciones y Sanciones</strong><br><a href="../public/docs/97_2018AnexoRISSE.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución Nº 17/2021 y Anexos</strong><br><a href="../public/docs/RG-17-2021-Modificatoria-RG-26-2015-05-2016-Y-49-2016-Seguridad-Eléctrica_firmado.pdf" download>Descargar PDF</a></li>
+      <li><strong>Anexos - Resolución Nº 17/2021</strong><br><a href="../public/docs/RG-17-2021-ANEXO-I-II-III-IV_firmado.pdf" download>Descargar PDF</a></li>
+      <li><strong>Anexo II - Resolución Nº 17/2021 Programa de Contenidos</strong><br><a href="../public/docs/RG-17-2021-ANEXO-II_firmado.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución Nº 41/2021 - Programa de Contenidos</strong><br><a href="../public/docs/RG-41-2021-Rectificatoria-RG-17-2021_firmado.pdf" download>Descargar PDF</a></li>
+      <li><strong>Anexo Resolución Nº 41/2021 - Modificatorio Anexo II</strong><br><a href="../public/docs/RG-41-2021-ANEXO_firmado.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución Nº 10/2022 - Modificación Reglamentación Técnica</strong><br><a href="../public/docs/RG-10-2022-Modificacion-a-la-Reglamentacion-Tecnica-Ejecucion-y-verificacion-intalaciones-electricas__firmado.pdf" download>Descargar PDF</a></li>
+      <li><strong>Anexo Resolución Nº 10/2022</strong><br><a href="../public/docs/RG-10-2022-ANEXO-UNICO__firmado.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución General Nº 4/2023 - Modificación Reglamentación Técnica</strong><br><a href="../public/docs/RG-04-2023-Reglamentacion-Tecnica-para-la-Ejecucion-y-Verificacion-de-Instalaciones-Electricas-Vulnerables-1.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución General Nº 109/2023 - Profesiones Autorizadas</strong><br><a href="../public/docs/RG-109-2023-0521-071769-2023-Resolucion-Modificatoria-50-2017-determinacion-de-incumbencias-V2-1.docx_firmado.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución General Nº 42/2025 - Modificatoria Régimen de Infracciones</strong><br><a href="../public/docs/RG-42-2025-Modificatoria-Regimen-de-infracciones-y-Sanciones-de-Ley-de-Seguridad-Electrica-1_firmado.pdf" download>Descargar PDF</a></li>
+      <li><strong>Resolución General Nº 96/2025 - Prórroga Vigencia Instaladores</strong><br><a href="../public/docs/RG-96-2025-Prorroga-plazo-de-Vigencia-de-Instaladores-Habilitados-1_firmado.pdf" download>Descargar PDF</a></li>
       </ul>
      <h3>Especificaciones Tecnicas</h3>
       <ul>
