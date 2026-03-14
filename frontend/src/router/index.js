@@ -8,6 +8,7 @@ import LoginAsociadosView from '../views/LoginAsociados.vue'
 import LoginAlumnosView from '../views/LoginAlumnos.vue'
 import HerySil from '../views/HerySil.vue'
 import ComisionView from '../views/ComisionView.vue'
+import ContactView from '../views/ContactView.vue'
 
 const routes = [
   { path: '/', name: 'Home', component: HomeView },
@@ -17,8 +18,9 @@ const routes = [
   { path: '/documentacion', name: 'Documentacion', component: DocumentacionView },
   { path: '/login-asociados', name: 'LoginAsociados', component: LoginAsociadosView },
   { path: '/login-alumnos', name: 'LoginAlumnos', component: LoginAlumnosView },
-  { path: '/Comision', name: 'Comision', component: ComisionView },
-  { path: '/herysil', name: 'herysil', component: HerySil }
+  { path: '/comision', name: 'Comision', component: ComisionView },
+  { path: '/herysil', name: 'herysil', component: HerySil },
+  { path: '/contacto', name: 'Contacto', component: ContactView }
 ]
 
 const router = createRouter({
