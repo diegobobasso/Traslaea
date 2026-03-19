@@ -74,6 +74,39 @@
       </ul>
     </div>
   </section>
+
+   <section class="relevando-peligros">
+    <h2>Podés denunciar irregularidades eléctricas en Relevando Peligros</h2>
+    <p>
+      <strong>Relevando Peligros</strong> es una organización sin fines de lucro que trabaja
+      para mejorar la seguridad eléctrica en la vía pública. Su misión es detectar,
+      registrar y gestionar peligros eléctricos ante los entes responsables, contribuyendo
+      a salvar vidas y prevenir accidentes.
+    </p>
+    <p>
+      Desde su sitio oficial, cualquier ciudadano puede <strong>denunciar un peligro eléctrico</strong>
+      cargando fotos y datos de la ubicación. La fundación se encarga de dar seguimiento
+      y exigir soluciones a las autoridades competentes.
+    </p>
+
+    <!-- Enlaces principales -->
+    <div class="links">
+      <a href="https://relevandopeligros.org/" target="_blank" rel="noopener">🌐 Sitio oficial 📢 Hacé tu denuncia</a>
+      <a href="https://wa.me/5493518629999" target="_blank" rel="noopener">💬 Contacto por WhatsApp</a>
+    </div>
+
+    <!-- Redes sociales (placeholders, vos completás los href) -->
+    <div class="social">
+      <h3>Seguilos en redes</h3>
+        <a href="https://www.facebook.com/yorelevo/" target="_blank" rel="noopener"><img src="../assets/icons/facebook.png" alt="Facebook" class="social-logo" /></a>
+        <a href="https://www.instagram.com/relevandopeligros/" target="_blank" rel="noopener"><img src="../assets/icons/instagram.png" alt="Instagram" class="social-logo" /></a>
+        <a href="https://twitter.com/relevarpeligros" target="_blank" rel="noopener"><img src="../assets/icons/twitter.png" alt="Instagram" class="social-logo" /></a>
+        <a href="https://www.youtube.com/user/relevandopeligros" target="_blank" rel="noopener"><img src="../assets/icons/youtube.png" alt="Instagram" class="social-logo" /></a>
+      
+      
+    </div>
+  </section>
+
 </template>
 
 <script>
@@ -115,7 +148,7 @@ export default {
 .home-description {
   padding: 2rem;
   font-size: 1.5rem;
-  max-width: 900px;
+  /*max-width: 900px;*/
   margin: auto;
   line-height: 1.6;  
 }
@@ -133,8 +166,6 @@ export default {
 strong {
   color: #004080;
 }
-
-
 
 /* Sello de agua institucional */
 .sello-institucion {
@@ -155,6 +186,53 @@ strong {
 }
 
 
+.relevando-peligros {
+  padding: 2rem;
+  background: #f9f9f9;
+  border-radius: 8px;
+}
+
+.relevando-peligros h2 {
+  color: #004080;
+  margin-bottom: 1rem;
+}
+
+.links a {
+  display: inline-block;
+  margin-right: 1rem;
+  color: #cc0000;
+  text-decoration: underline;
+}
+
+.social ul {
+  list-style: none;
+  padding: 0;
+}
+
+.social li {
+  margin-bottom: 0.5rem;
+}
+
+.social a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.social a:hover {
+  text-decoration: underline;
+}
+
+
+.social-logo {
+  align-items: center;
+  width: 28px;
+  height: 28px;
+  transition: transform 0.3s ease;
+}
+
+.social-link:hover .social-logo {
+  transform: scale(1.1);
+}
 
 /* Responsive */
 @media (max-width: 768px) {

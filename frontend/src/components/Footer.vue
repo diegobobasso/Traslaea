@@ -1,7 +1,7 @@
 <template>
   <footer class="footer" role="contentinfo">
     <div class="footer-content">
-      <!-- Información municipal + redes sociales en fila -->
+      <!-- Información + redes sociales en fila -->
       <div class="footer-section">
         <div class="municipality-info">
           <h3><img src="../assets/images/LogoTraslaea.jpg" class="img-muni-footer" /> TRASLAEA - Traslasierra Electricistas Asociados</h3>
@@ -9,8 +9,8 @@
             <div class="contact-info">
               <span class="contact-item"><img src="../assets/icons/Ubicacion.png" class="img-footer" /> Dorrego 1435, Barrio San Martin, Ciudad de Villa Dolores (C.P. 5870), Provincia de Córdoba, República Argentina</span>
               <!--   <span class="contact-item"><img src="../assets/icons/Telefono.png" class="img-footer" /> Tel: (03544) 48-3037</span>   -->
-              <span class="contact-item"><img src="../assets/icons/Mensaje.png" class="img-footer" /> WhatsApp: +54 9 3544 30-7583</span>
-              <span class="contact-item"><img src="../assets/icons/Mail.png" class="img-footer" /> traslaea@gmail.com</span>
+              <span class="contact-item"><img src="../assets/icons/whatsapp.png" class="img-footer" /> WhatsApp: +54 9 3544 30-7583</span>
+              <span class="contact-item"><img src="../assets/icons/gmail.png" class="img-footer" /> traslaea@gmail.com</span>
             </div>
             <div class="social-links">
               <h4>Nuestras redes sociales</h4>
