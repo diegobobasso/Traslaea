@@ -8,7 +8,6 @@
       </p>
 
       <div class="contact-grid">
-        <!-- Formulario -->
         <form class="contact-form" @submit.prevent="enviarFormulario">
           <div class="form-group">
             <label for="nombre">Nombre</label>
@@ -28,7 +27,6 @@
           <button type="submit" class="btn">Enviar</button>
         </form>
 
-        <!-- Datos institucionales -->
         <div class="contact-img">
           <img src="../assets/images/LogoTraslaea.jpg"  alt="Logo TRASLAEA" height="auto" />
         </div>
@@ -74,11 +72,10 @@ async function enviarFormulario() {
       'rt5U45x1G4tHZDe8A'
     )
 
-    ///alert('Mensaje enviado correctamente ✅. Recibirás un correo de confirmación.')
     form.value = { nombre: '', email: '', mensaje: '' }
   } catch (error) {
     console.error('Error al enviar email:', error)
-    // alert('Hubo un problema al enviar el mensaje ❌')
+    alert('Hubo un problema al enviar el mensaje ❌')
   }
 }
 

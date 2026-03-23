@@ -1,14 +1,12 @@
 <template>
   <footer class="footer" role="contentinfo">
     <div class="footer-content">
-      <!-- Información + redes sociales en fila -->
       <div class="footer-section">
         <div class="municipality-info">
           <h3><img src="../assets/images/LogoTraslaea.jpg" class="img-muni-footer" /> TRASLAEA - Traslasierra Electricistas Asociados</h3>
           <div class="contact-social-row">
             <div class="contact-info">
               <span class="contact-item"><img src="../assets/icons/Ubicacion.png" class="img-footer" /> Dorrego 1435, Barrio San Martin, Ciudad de Villa Dolores (C.P. 5870), Provincia de Córdoba, República Argentina</span>
-              <!--   <span class="contact-item"><img src="../assets/icons/Telefono.png" class="img-footer" /> Tel: (03544) 48-3037</span>   -->
               <span class="contact-item"><img src="../assets/icons/whatsapp.png" class="img-footer" /> WhatsApp: +54 9 3544 30-7583</span>
               <span class="contact-item"><img src="../assets/icons/gmail.png" class="img-footer" /> traslaea@gmail.com</span>
             </div>
@@ -99,7 +97,6 @@ import logo from '../assets/images/logoHerysil1.png'
   line-height: 1.4;
 }
 
-/* Redes sociales */
 .social-links {
   display: flex;
   gap: 1rem;
@@ -135,14 +132,12 @@ import logo from '../assets/images/logoHerysil1.png'
   font-size: 0.9rem;
   opacity: 0.8;
   display: flex;
-  justify-content: space-between; /* izquierda: derechos, derecha: branding */
+  justify-content: space-between; 
   align-items: center;
-  /*text-align: center; */
   padding-top: 1rem;
   border-top: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-/* Firma institucional en ángulo inferior */
 .developer-footer {
   display: flex;
   justify-content: flex-end;
@@ -218,7 +213,7 @@ import logo from '../assets/images/logoHerysil1.png'
   font-weight: 600;
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
   .contact-social-row {
     flex-direction: column;

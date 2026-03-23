@@ -1,12 +1,10 @@
 <template>
   <section class="about">
     <div class="container about-layout">
-      <!-- Columna izquierda: logo grande -->
       <div class="about-logo">
         <img src="../assets/images/LogoTraslaea.png" alt="Logo Traslaea" />
       </div>
 
-      <!-- Columna derecha: contenido institucional -->
       <div class="about-content">
         <h2>Sobre Traslaea</h2>
         <p class="intro">Traslaea (Traslasierra Electricistas Asociados) es una asociación que reúne a profesionales de la electricidad en la región de Traslasierra, Córdoba. Su misión principal es fortalecer la identidad institucional de los electricistas habilitados, promover la capacitación continua y garantizar que las instalaciones eléctricas cumplan con los estándares de seguridad exigidos por la normativa vigente. La organización se constituye como un espacio de referencia para trabajadores, empresas y la comunidad, ofreciendo respaldo técnico y legal en un rubro clave para el desarrollo regional.
@@ -66,7 +64,6 @@ La asociación fomenta la colaboración entre sus miembros, impulsa proyectos de
   background: #f9f9f9;
 }
 
-/* Layout en dos columnas */
 .about-layout {
   display: flex;
   flex-wrap: wrap;
@@ -74,7 +71,6 @@ La asociación fomenta la colaboración entre sus miembros, impulsa proyectos de
   align-items: flex-start;
 }
 
-/* Columna izquierda: logo */
 .about-logo {
   flex: 1 1 300px;
   display: flex;
@@ -87,7 +83,6 @@ La asociación fomenta la colaboración entre sus miembros, impulsa proyectos de
   max-height: 300px;
 }
 
-/* Columna derecha: contenido */
 .about-content {
   flex: 2 1 500px;
 }
@@ -126,7 +121,6 @@ La asociación fomenta la colaboración entre sus miembros, impulsa proyectos de
   max-width: 800px;
 }
 
-/* Responsive: logo arriba, texto abajo */
 @media (max-width: 768px) {
   .about-layout {
     flex-direction: column;

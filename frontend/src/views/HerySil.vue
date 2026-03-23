@@ -1,6 +1,5 @@
 <template>
   <div class="contact-page">
-    <!-- Hero Section -->
     <section class="hero-section">
       <div class="container">
         <div class="hero-content">
@@ -19,7 +18,6 @@
       </div>
     </section>
 
-    <!-- About Section -->
     <section class="about-section">
       <div class="container">
         <h2 class="section-title">¿Quiénes somos?</h2>
@@ -62,7 +60,6 @@
       </div>
     </section>
 
-    <!-- Services Section -->
     <section class="services-section">
       <div class="container">
         <h2 class="section-title">Nuestros Servicios</h2>
@@ -111,7 +108,6 @@
       </div>
     </section>
 
-    <!-- Contact Section -->
     <section class="contact-section">
       <div class="container">
         <h2 class="section-title">Contáctanos</h2>
@@ -156,7 +152,6 @@ const contact = ref({
 })
 
 const formatPhone = (phone) => {
-  // Formatear número de teléfono para mostrar
   return phone.replace(/(\d{3})(\d{3})(\d{4})/, '$1 $2 $3')
 }
 </script>
@@ -173,7 +168,6 @@ const formatPhone = (phone) => {
   padding: 0 20px;
 }
 
-/* Hero Section */
 .hero-section {
   background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
   color: white;
@@ -223,7 +217,6 @@ const formatPhone = (phone) => {
   line-height: 1.6;
 }
 
-/* Section Common Styles */
 section {
   padding: 80px 0;
 }
@@ -248,7 +241,6 @@ section {
   border-radius: 2px;
 }
 
-/* About Section */
 .about-section {
   background: white;
 }
@@ -302,7 +294,6 @@ section {
   margin: 0;
 }
 
-/* Services Section */
 .services-section {
   background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
 }
@@ -358,7 +349,6 @@ section {
   font-weight: bold;
 }
 
-/* Contact Section */
 .contact-section {
   background: white;
 }
@@ -522,7 +512,6 @@ section {
   transform: translateY(-3px);
 }
 
-/* Tech Section */
 .tech-section {
   background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
 }
@@ -569,7 +558,6 @@ section {
   background: var(--secondary);
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
   .hero-text h1 {
     font-size: 2.2rem;
