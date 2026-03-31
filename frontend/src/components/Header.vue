@@ -19,9 +19,6 @@
         <li><router-link to="/eventos" @click="closeMenu">Eventos</router-link></li>
         <li><router-link to="/documentacion" @click="closeMenu">Documentación</router-link></li>
         <li><router-link to="/comision" @click="closeMenu">Comisión</router-link></li>
-        <li><router-link to="/contacto" @click="closeMenu">Contacto</router-link></li>
-        <li><router-link to="/login-asociados" @click="closeMenu">Login Asociados</router-link></li>
-        <li><router-link to="/login-alumnos" @click="closeMenu">Login Alumnos</router-link></li>
       </ul>
     </nav>
   </header>
