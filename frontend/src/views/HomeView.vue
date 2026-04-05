@@ -86,7 +86,7 @@
 <!-- Formulario de Contacto -->
 <section class="home-description">
   <div class="container">
-    <h1>Contacto</h1>
+    <h2>Contacto</h2>
     <p class="intro">¿Tenés alguna consulta o necesitás asesoramiento? Estamos para ayudarte.</p>
 
     <form class="contact-form" @submit.prevent="enviarFormulario">

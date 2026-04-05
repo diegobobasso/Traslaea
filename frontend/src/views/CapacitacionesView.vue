@@ -162,6 +162,7 @@ const enviarSolicitud = async () => {
   position: relative;
 }
 .modal-close {
+  color:#004080;
   position: absolute;
   top: 10px;
   right: 10px;
