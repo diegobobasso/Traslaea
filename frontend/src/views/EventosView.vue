@@ -29,9 +29,9 @@
         <h2 class="modal-title">{{ selectedEvento.titulo }}</h2>
         <p class="fecha">{{ selectedEvento.fecha }}</p>
         <p>{{ selectedEvento.descripcion }}</p>
-        <div class="modal-actions">
+        <!--div class="modal-actions">
           <a :href="selectedEvento.url" target="_blank" class="btn ver">Ver más</a>
-        </div>
+        </div-->
       </div>
     </div>
   </section>
