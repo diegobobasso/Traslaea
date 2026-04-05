@@ -2,9 +2,10 @@
   <header class="header">
     <!-- Logo institucional -->
     <div class="logo-container">
-      <router-link to="/" @click="closeMenu">
-      <img src="../assets/images/LogoTraslaea.jpg" alt="Logo TRASLAEA" class="logo" /></router-link>
-      <span class="title">TRASLAEA</span>
+      <router-link to="/" @click="closeMenu" class="logo-link">
+        <img src="../assets/images/LogoTraslaea.jpg" alt="Logo TRASLAEA" class="logo" />
+        <span class="title">TRASLAEA</span>
+      </router-link>
     </div>
 
     <!-- Botón hamburguesa (solo visible en móviles) -->
@@ -57,6 +58,11 @@ export default {
 .logo-container {
   display: flex;
   align-items: center;
+}
+.logo-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
 }
 .logo {
   height: 50px;

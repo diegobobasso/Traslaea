@@ -27,10 +27,17 @@
     
           <div class="copyright">
             © {{ year }} TRASLAEA - Traslasierra Electricistas Asociados - Todos los derechos reservados
-            <router-link to="/herysil" class="brand-link" aria-label="Acerca de Herysil Software Development">
+          <a 
+            href="https://www.herysilsoftware.com.ar" 
+            class="brand-link" 
+            aria-label="Acerca de Herysil Software Development" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            >
             <img :src="logo" alt="Herysil Logo" class="brand-logo" />
             <span class="brand-name">Herysil Software Development</span>
-          </router-link>
+          </a>
+
         </div>
       </div>
     </div>
