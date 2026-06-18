@@ -6,10 +6,10 @@
       </div>
     </section>
 
-    <!-- Banner -->
+    <!-- Banner >
     <section class="banner">
       <img src="../assets/images/baner2.png" alt="Banner institucional" class="banner-img" />
-    </section>
+    </section-->
 
     <!-- Contenido Principal -->
     <section>
