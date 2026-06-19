@@ -91,14 +91,14 @@
           <p>Estamos ubicados sobre la calle Dorrego nº 1432, Villa Dolores, Córdoba.</p>
         </div>
         <MapEmbed />
-        <a
+        <!--a
           href="https://www.google.com/maps/place/Dorrego+1435,+Villa+Dolores,+Córdoba"
           target="_blank"
           rel="noopener noreferrer"
           class="open-maps-btn"
         >
           📍 Abrir en Google Maps
-        </a>
+        </a-->
       </div>
     </section>
 
