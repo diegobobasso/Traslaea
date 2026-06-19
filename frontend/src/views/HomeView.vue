@@ -83,6 +83,21 @@
       </div>
     </section>
 
+    <section class="location-section" id="location">
+      <div class="container">
+        <div class="location-wrapper">
+          <div class="location-info">
+            <h2 class="section-title">Nuestras oficinas</h2>
+            <!--p>Estamos ubicados sobre la principal arteria de Villa Dolores, permitiéndote un acceso rápido a los centros comerciales y a las rutas hacia Mina Clavero y Nono.</p-->
+           
+          </div>
+          <div class="map-container">
+            <MapEmbed />
+          </div>
+        </div>
+      </div>
+    </section>
+
 <!-- Formulario de Contacto -->
 <section class="home-description">
   <div class="container">
@@ -118,6 +133,7 @@
 <script setup>
 import { ref } from 'vue'
 import emailjs from '@emailjs/browser'
+import MapEmbed from '../components/MapEmbed.vue'
 
 // Lista de servicios (podrías mover esto a un archivo externo)
 const services = ref([
@@ -317,6 +333,39 @@ textarea {
   background: #002b57;
   transform: translateY(-2px);
 }
+
+/* Mapa */
+
+.location-section { 
+  padding: 8rem 0; 
+  background-color: #FDFBF9; 
+}
+.location-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  align-items: center;
+}
+.location-info h2 { text-align: left; }
+.address-box {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+.map-container { 
+  border-radius: 20px; 
+  overflow: hidden; 
+  height: 400px; 
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1); 
+}
+
+
+
 
 /* Redes sociales */
 .social-logo {

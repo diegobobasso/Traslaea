@@ -13,10 +13,10 @@
       <h2>Comisión Directiva</h2>
       <ul>
         <li><strong>Presidencia:</strong><br> Ricardo Andrés BALMACEDA</li>
-        <li><strong>Secretaría:</strong><br> Esteban Adrian COLOMBO</li>
-        <li><strong>Tesorería:</strong><br> Juan Marcelo FLORES</li>
-        <li><strong>Vocal Titular:</strong><br> Johnatan Jesus SOSA</li>
-        <li><strong>Vocal Suplente:</strong><br> Sergio David LUNGU</li>
+        <li><strong>Secretaría:</strong><br> Juan Marcelo FLORES</li>
+        <li><strong>Tesorería:</strong><br> Johnatan Jesus SOSA</li>
+        <li><strong>Vocal Titular:</strong><br> Sergio David LUNGU</li>
+        <li><strong>Vocal Suplente:</strong><br> </li>
       </ul>
     </div>
 
