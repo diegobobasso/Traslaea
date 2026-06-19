@@ -83,13 +83,22 @@
       </div>
     </section>
 
+     <!-- Ubicación -->
     <section class="home-description location-section" id="location">
       <div class="container">
-          <div class="location-info">
-            <h2 class="section-title">Nuestras oficinas</h2>
-            <p class="address">Estamos ubicados sobre la calle Dorrego nº 1432, Villa Dolores, Córdoba.</p>
-          </div>
-            <MapEmbed />
+        <div class="location-info">
+          <h2 class="section-title">Nuestras oficinas</h2>
+          <p>Estamos ubicados sobre la calle Dorrego nº 1432, Villa Dolores, Córdoba.</p>
+        </div>
+        <MapEmbed />
+        <a
+          href="https://www.google.com/maps/place/Dorrego+1435,+Villa+Dolores,+Córdoba"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="open-maps-btn"
+        >
+          📍 Abrir en Google Maps
+        </a>
       </div>
     </section>
 
@@ -330,9 +339,26 @@ textarea {
 }
 
 /* Mapa */
+.open-maps-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 18px;
+  background-color: #4285F4; /* Azul Google Maps */
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
 
-.address {
-  font-size:1.5rem;
+.open-maps-btn:hover {
+  background-color: #3367D6;
+  transform: translateY(-2px);
+}
+
+.open-maps-btn:active {
+  background-color: #2a56c6;
+  transform: translateY(0);
 }
 
 .location-section { 
