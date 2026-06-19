@@ -83,18 +83,13 @@
       </div>
     </section>
 
-    <section class="location-section" id="location">
+    <section class="home-description location-section" id="location">
       <div class="container">
-        <div class="location-wrapper">
           <div class="location-info">
             <h2 class="section-title">Nuestras oficinas</h2>
-            <!--p>Estamos ubicados sobre la principal arteria de Villa Dolores, permitiéndote un acceso rápido a los centros comerciales y a las rutas hacia Mina Clavero y Nono.</p-->
-           
+            <p class="address">Estamos ubicados sobre la calle Dorrego nº 1432, Villa Dolores, Córdoba.</p>
           </div>
-          <div class="map-container">
             <MapEmbed />
-          </div>
-        </div>
       </div>
     </section>
 
@@ -335,6 +330,10 @@ textarea {
 }
 
 /* Mapa */
+
+.address {
+  font-size:1.5rem;
+}
 
 .location-section { 
   padding: 8rem 0; 
